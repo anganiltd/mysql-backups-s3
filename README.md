@@ -2,6 +2,8 @@
 
 This is a repository for a bash script to backup MySQL databases to s3.
 
+For backup to other locations, modify the section for pushing to s3.
+
 ## Prerequisites
 
 - Python
